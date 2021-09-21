@@ -1,7 +1,7 @@
 # Parado(a) aí amigo(a), 🚧👷🛑
 Este readme ainda está em construção! Enquanto isso, fique com algumas informações relevantes sobre mim:
 
-Me chamo Paulo Lages, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Campinas. Até agora tive foco maior em desenvolvimento de software, desenvolvimento web e banco de dados. Minhas principais linguagens são C e Php!
+Estou cursando Análise e Desenvolvimento de Sistemas na Fatec Campinas. Até agora tive foco maior em desenvolvimento de software, desenvolvimento web e banco de dados.
 
 - 🛠️ Dedicando todo meu tempo ao desenvolvimento de um banco de dados, dos diagramas ao código! E que logo estará por aqui.
 - 📚 Atualmente aprendendo PHP, Laravel e Git
