@@ -4,7 +4,7 @@ Este readme ainda está em construção! Enquanto isso, fique com algumas inform
 Estou cursando Análise e Desenvolvimento de Sistemas na Fatec Campinas. Até agora tive foco maior em desenvolvimento de software, desenvolvimento web e banco de dados.
 
 - 🛠️ Dedicando todo meu tempo ao desenvolvimento de um banco de dados, dos diagramas ao código! E que logo estará por aqui.
-- 📚 Atualmente aprendendo PHP, Laravel e Git
+- 📚 Atualmente aprendendo PHP, JS, React Native e Git
 
 <div>
   <a href="https://github.com/paulolages">
