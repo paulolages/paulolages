@@ -8,7 +8,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas na Fatec Campinas. Até ag
 
 <div style="display: inline-block"><br>
   <a href="https://github.com/paulolages">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=paulolages&show_icons=true&theme=vision-friendly-dark&inlcude_all_commits=true_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=paulolages&show_icons=true&theme=vision-friendly-dark&inlcude_all_commits=true_private=true"/>
   <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulolages&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
   <a align="center" href="https://github-readme-stats.vercel.app/api/wakatime?username=paulolages"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=paulolages&layout=compact&text_color=073D3D&bg_color=BDD6D6"/><br>
 </a>
