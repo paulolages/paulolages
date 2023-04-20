@@ -1,10 +1,30 @@
-# Parado(a) aí amigo(a), 🚧👷🛑
-Este readme ainda está em construção! Enquanto isso, fique com algumas informações relevantes sobre mim:
+# Olá amigo(a), seja bem-vindo ao meu github!
+<h3>Aqui você encontrará algumas informações sobre mim, minha tragetória profissional em TI, e também as melhores formas de entrar em contato comigo.</h3>
+Meu nome é Paulo Lages, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Campinas. Durante o curso, tive maior contato com desenvolvimento web e banco de dados. 
+<p></p>
 
-Estou cursando Análise e Desenvolvimento de Sistemas na Fatec Campinas. Até agora tive foco maior em desenvolvimento de software, desenvolvimento web e banco de dados.
-
-- 🛠️ Dedicando todo meu tempo ao desenvolvimento de um banco de dados, dos diagramas ao código! E que logo estará por aqui.
-- 📚 Atualmente aprendendo PHP, JS, React Native e Git
+<details>
+  <summary>Um resumo da experiência profissional com TI <i>(clique para abrir)</i></summary>
+  
+  <p></p>
+  Estou estagiando na ITShare há 1 ano e 3 meses, e como consultora de TI a ITShare trabalha em conjunto com outras empresas prestando serviços para seus clientes. Durante esse período, tive a oportunidade de conhecer melhor o funcionamento dos ambientes de testes e homologação, e sobretudo de como isso está ligado ao QA dos produtos e serviços oferecidos por uma empresa. Integrei duas equipes diferentes na ITShare, exercendo as seguintes atividades:
+  <p></p>
+  
+  <b>[Equipe de Ambientes]</b>
+  - Analisar erros das aplicações da Claro.
+  - Executar scripts e rotinas de testes.
+  - Realizar deploy dos pacotes de aplicações.
+  - Monitorar os ambientes e solucionar erros ocasionais.
+  - Atender chamados para realizar alterações nos ambientes.
+  - Trabalhar em conjunto com as equipes dos projetos para solucionar obstáculos nas rotinas de teste.
+  
+  <b>[Equipe de Configuração]</b>
+  - Confirmar e aprovar pacotes para deploy.
+  - Testar conexões e alterar regras de firewall e de acesso.
+  - Alterar escopos dos projetos e liberar acesso de aplicações.
+  - Cadastrar novas informações no sistema, como servidores e credenciais.
+  - Avaliar o impacto de alterações dos projetos no ambiente, junto aos líderes dos projetos.
+</details> 
 
 <div style="display: inline-block"><br>
   <a href="https://github.com/paulolages">
