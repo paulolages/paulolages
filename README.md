@@ -3,10 +3,6 @@
 Meu nome é Paulo Lages, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Campinas. Estou estagiando em uma consultora de TI chamada ITShare há 1 ano e 3 meses, atuando na área de Suporte de TI.
 <p></p>
 
-<details>
-  <summary>Sobre mim <i>(clique para abrir)</i></summary>
-  <p></p>
-  teste
 </details>
 
 <details>
