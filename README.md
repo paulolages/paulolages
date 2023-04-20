@@ -1,13 +1,18 @@
-# Olá amigo(a), seja bem-vindo ao meu github!
-<h3>Aqui você encontrará algumas informações sobre mim, minha tragetória profissional em TI, e também as melhores formas de entrar em contato comigo.</h3>
-Meu nome é Paulo Lages, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Campinas. Durante o curso, tive maior contato com desenvolvimento web e banco de dados. 
+# Olá amigo(a), seja bem-vindo(a) ao meu github!
+<h3>Aqui você encontrará meus contatos, algumas informações sobre mim e minha tragetória profissional em TI.</h3>
+Meu nome é Paulo Lages, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Campinas. Estou estagiando em uma consultora de TI chamada ITShare há 1 ano e 3 meses, atuando na área de Suporte de TI.
 <p></p>
 
 <details>
-  <summary>Um resumo da experiência profissional com TI <i>(clique para abrir)</i></summary>
-  
+  <summary>Sobre mim <i>(clique para abrir)</i></summary>
   <p></p>
-  Estou estagiando na ITShare há 1 ano e 3 meses, e como consultora de TI a ITShare trabalha em conjunto com outras empresas prestando serviços para seus clientes. Durante esse período, tive a oportunidade de conhecer melhor o funcionamento dos ambientes de testes e homologação, e sobretudo de como isso está ligado ao QA dos produtos e serviços oferecidos por uma empresa. Integrei duas equipes diferentes na ITShare, exercendo as seguintes atividades:
+  teste
+</details>
+
+<details>
+  <summary>Um resumo da minha experiência profissional com TI <i>(clique para abrir)</i></summary>
+  <p></p>
+  Durante meu estágio tive a oportunidade de trabalhar com a Claro, uma das maiores empresas de telecomunição no Brasil, e também com outras empresas que administraram a cadeia de testes deles. Acompanhei de perto o funcionamento dos ambientes de testes e homologação, e sobretudo senti a importância da manutenção desses sistemas para a QA dos produtos e serviços de uma empresa. Até o momento integrei duas equipes diferentes na ITShare, exercendo as seguintes atividades:
   <p></p>
   
   <b>[Equipe de Ambientes]</b>
