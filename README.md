@@ -1,5 +1,5 @@
 # Olá amigo(a), seja bem-vindo(a) ao meu github!
-<h3>Aqui você encontrará meus contatos, algumas informações sobre mim e minha tragetória profissional em TI.</h3>
+<h3>Aqui você encontrará algumas informações sobre mim e minha tragetória profissional em TI.</h3>
 Meu nome é Paulo Lages, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Campinas. Estou estagiando em uma consultora de TI chamada ITShare há 1 ano e 5 meses, atuando na área de Suporte de TI.
 <p></p>
 
