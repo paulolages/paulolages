@@ -1,12 +1,13 @@
 # Olá amigo(a), seja bem-vindo(a) ao meu github!
-<h3>Aqui você encontrará algumas informações sobre mim e minha tragetória profissional em TI.</h3>
+<b>Aqui você encontrará algumas informações sobre mim e minha tragetória profissional em TI.</b>
+<p></p>
 Meu nome é Paulo Lages, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Campinas. Estou estagiando em uma consultora de TI chamada ITShare há 1 ano e 5 meses, atuando na área de Suporte de TI.
 <p></p>
 
 <details>
   <summary><i>Um breve resumo da minha experiência profissional com TI</i></summary>
   <p></p>
-  Durante meu estágio tive a oportunidade de trabalhar com a Claro, uma das maiores empresas de telecomunição no Brasil, e também com outras empresas que administraram a cadeia de QA deles. Acompanhei de perto o funcionamento dos ambientes de testes e homologação, trabalhando em conjunto com as equipes para mantermos o padrão de QA dos softwares e serviços da Claro. Até o momento integrei duas equipes diferentes na ITShare, exercendo as seguintes atividades:
+  Durante meu estágio tive a oportunidade de trabalhar com a Claro, uma das maiores empresas de telecomunição no Brasil, e também com outras empresas que administram a cadeia de QA deles. Acompanhei de perto o funcionamento dos ambientes de testes e homologação, trabalhando em conjunto com as equipes para mantermos o padrão de QA dos softwares e serviços da Claro. Até o momento integrei duas equipes diferentes na ITShare, exercendo as seguintes atividades:
   <p></p>
   
   <b>[Equipe de Ambientes]</b>
